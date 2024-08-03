@@ -34,4 +34,4 @@ You can override this (or any other) theme in your personal config file. Please 
 
 ## Credits
 
-This theme was inspired by the [Windows XP Luna theme](https://github.com/sinedied/vscode-windows-xp-theme) by [sinedied](https://github.com/sinedied). The syntax highlighting color scheme was derived from the default VS Code Light (Visual Studio) theme.
+This theme is a mod of the [Windows XP Luna theme](https://github.com/sinedied/vscode-windows-xp-theme) by [sinedied](https://github.com/sinedied). The syntax highlighting color scheme was derived from the default VS Code Light (Visual Studio) theme.
