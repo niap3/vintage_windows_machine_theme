@@ -3,7 +3,7 @@
 > A theme extension for [Visual Studio Code](https://code.visualstudio.com/?WT.mc_id=javascript-36167-yolasors) based on the [Beige Box Aesthetic](https://en.wikipedia.org/wiki/Beige_box)
 
 <p align="center">
-  <img alt="preview image" src="[https://github.com/niap3/vintage_windows_machine_theme/blob/27c71e229210f87970ca96b47d0dea0c4a5a6ab7/preview.png](https://github.com/niap3/vintage_windows_machine_theme/blob/8d26e13354ab360881f258bb3e2ae2f51b316469/preview.png)"/>
+  <img alt="preview image" src="https://github.com/niap3/vintage_windows_machine_theme/blob/8f3fb97bbbf232b817a48f27efd2beda9560a65f/preview.png"/>
 </p>
 
 [Test it online!](https://vscode.dev/editor/theme/theedvinjoseph.vintage-windows-machine-theme)
