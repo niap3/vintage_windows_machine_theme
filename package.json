@@ -1,0 +1,66 @@
+{
+  "name": "vintage-windows-machine-theme",
+  "displayName": "Vintage Windows Machine Theme",
+  "description": "Vintage Windows Machine Theme for VS Code",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/niap3/vintage_windows_machine_theme"
+  },
+  "author": {
+		"name": "Edvin Joseph",
+    "url": "https://github.com/niap3"
+	},
+  "homepage": "https://github.com/niap3/vintage_windows_machine_theme",
+  "bugs": {
+    "url": "https://github.com/niap3/vintage_windows_machine_theme/issues"
+  },
+  "license": "MIT",
+  "version": "0.1",
+  "publisher": "theedvinjoseph",
+  "preview": true,
+  "icon": "icon.png",
+  "galleryBanner": {
+    "color": "#f0eee4",
+    "theme": "light"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "engines": {
+    "vscode": "^1.17.0"
+  },
+  "scripts": {
+    "package": "npx vsce package",
+    "release": "npx vsce publish"
+  },
+  "keywords": [
+    "vscode",
+    "theme",
+    "vintage",
+    "windows",
+    "light",
+    "beige",
+    "old",
+    "classic",
+    "icons",
+    "icon-theme",
+    "customization"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "id": "vintage-windows-machine-theme",
+        "label": "Vintage Windows PC Theme (Light)",
+        "uiTheme": "vs",
+        "path": "./themes/vintage-windows-machine-theme.json"
+      }
+    ],
+    "iconThemes": [
+      {
+        "id": "windows-xp-icons",
+        "label": "Windows XP Icons",
+        "path": "./icons/vintage-windows-machine-icons.json"
+      }
+    ]
+  }
+}
