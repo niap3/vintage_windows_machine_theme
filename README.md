@@ -3,7 +3,7 @@
 > A theme extension for [Visual Studio Code](https://code.visualstudio.com/?WT.mc_id=javascript-36167-yolasors) based on the [Windows XP Luna theme](https://github.com/sinedied/vscode-windows-xp-theme) by [sinedied](https://github.com/sinedied).
 
 <p align="center">
-  <img alt="" src=""/>
+  <img alt="" src="https://github.com/niap3/vintage_windows_machine_theme/blob/66c1108ee74a3ebde819ced56bcfc55001180790/preview.jpg"/>
 </p>
 
 ### [TO BE ADDED!!!]
