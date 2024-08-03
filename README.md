@@ -6,20 +6,18 @@
   <img alt="" src="https://github.com/niap3/vintage_windows_machine_theme/blob/27c71e229210f87970ca96b47d0dea0c4a5a6ab7/preview.png"/>
 </p>
 
-### [TO BE ADDED!!!]
-
-[Test it online!](link)
+[Test it online!](https://vscode.dev/editor/theme/theedvinjoseph.vintage-windows-machine-theme)
 
 ## Install
 
-### From VS Marketplace [TO BE ADDED!!!]
+### From VS Marketplace
 
-1. Go to [VS Marketplace](link).
+1. Go to [VS Marketplace](https://marketplace.visualstudio.com/items?itemName=theedvinjoseph.vintage-windows-machine-theme).
 2. Click on the **Install** button.
-3. Then [select a theme](link). Currently the following themes are available:
+3. Then [select a theme](https://code.visualstudio.com/docs/getstarted/themes?WT.mc_id=javascript-36167-yolasors#_selecting-the-color-theme). Currently the following themes are available:
     - `Vintage Windows Machine Theme (Light)`
 
-### From VS Code [TO BE ADDED!!!]
+### From VS Code
 
 1. Select the extension tab.
 2. Search for `@category:"themes" vintage windows machine`.
