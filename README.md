@@ -1,4 +1,4 @@
-# Windows XP Theme for VS Code
+# Vintage Windows Machine Theme for VSCode
 
 > A theme extension for [Visual Studio Code](https://code.visualstudio.com/?WT.mc_id=javascript-36167-yolasors) based on the [Beige Box Aesthetic](https://en.wikipedia.org/wiki/Beige_box)
 
